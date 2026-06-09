@@ -9,7 +9,18 @@ redirect_from:
   - /home/
 ---
 
-<div style="text-align: justify"> Hello, I am Himarsha R. Jayanetti. I joined the Old Dominion University as a Master’s student in Fall 2019 under the supervision of <a href="https://weiglemc.github.io/">Dr. Michele Weigle</a>. I have transferred to the Ph.D. program under the same advisor in Fall 2020. My research interests are in web archiving, digital preservation, and social media. I am a part of the Web Science and Digital Libraries Research Group as a research assistant.<br></div>
+<div style="text-align: justify">Hello, I am Himarsha R. Jayanetti, a Ph.D. Candidate in Computer Science at Old Dominion University, where I conduct research under the supervision of <a href="https://weiglemc.github.io/">Dr. Michele C. Weigle</a> and <a href="https://www.cs.odu.edu/~mln/">Dr. Michael L. Nelson</a> as a member of the  <a href="https://oduwsdl.github.io/">Web Science and Digital Libraries (WSDL) Research Group</a>. <br>
+
+My research interests include web archiving, digital libraries, social media analysis, web science, data science, information retrieval, machine learning, and computational social science. My current dissertation research investigates how social media content extends beyond its native platforms and is integrated into television news broadcasts, providing new perspectives on measuring information reach and influence. <br>
+
+I have authored multiple conference and journal publications and have been recognized with several awards, including the Best Student Paper Award (TPDL 2022), Best Short Paper Award (JCDL 2023), Best Overall Paper and Best Paper in Data Science Track (MSVSCC 2023), and the ODU Computer Science Graduate Society Hackathon Championship (2025). My work has also been supported through competitive travel grants and research opportunities, including internships with Los Alamos National Laboratory (2022) and the Internet Archive as a Google Summer of Code Contributor (2025). <br>
+
+In addition to research, I am committed to teaching, mentoring, and academic service. I have served as a Teaching Assistant for CS 120: Introduction to Information Literacy and Research (Fall 2019; Spring & Fall 2020) and Instructor for CS 450/550 Database Concepts (Spring 2026) and have contributed to the research community through conference program committee service and peer review activities for venues such as JCDL, TPDL, and CIKM. <br>
+
+
+</div>
+
+<br><br>
 
 <a href="https://oduwsdl.github.io/" target="_blank" class="btn btn--mcw"><i class="fas fa-fw fa-link"></i><span> WS-DL Webpage</span></a>
 <a href="https://twitter.com/WebSciDL" target="_blank" class="btn btn--mcw"><i class="fab fa-twitter" style="color: {{ page.twitter-color }}"></i><span> WS-DL Twitter</span></a>
