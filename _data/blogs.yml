@@ -8,6 +8,16 @@
     - ODU
     - Database Concepts
 
+- title: "An Internship Experience With the Internet Archive as a Google Summer of Code Contributor"
+  date: 2025-10-10
+  url: "https://ws-dl.blogspot.com/2025/10/2025-10-10-internship-experience-with_10.html"
+  venue: "WS-DL Blog"
+  excerpt: "A reflection on my Google Summer of Code 2025 experience at the Internet Archive—working with mentors on detecting social media content in TV news, pivoting from traditional ML to LLMs, and learning to collaborate in open source."
+  tags:
+    - GSoC
+    - Internet Archive
+    - Internships
+
 - title: "Summer Project as a Google Summer of Code (GSoC) Contributor"
   date: 2025-09-29
   url: "https://ws-dl.blogspot.com/2025/09/2025-09-29-summer-project-as-google.html"
@@ -17,6 +27,16 @@
     - GSoC
     - Internet Archive
     - TV News Archive
+
+- title: "ACM Capital Region Celebration of Women in Computing (CAPWIC) 2025 Trip Report"
+  date: 2025-05-12
+  url: "https://ws-dl.blogspot.com/2025/05/2025-05-12-acm-capital-region.html"
+  venue: "WS-DL Blog"
+  excerpt: "Trip report from CAPWIC 2025 at George Washington University, where eight ODU CS Ph.D. students—including five from WS-DL—attended keynotes, research sessions, and presented posters."
+  tags:
+    - CAPWIC
+    - Conferences
+    - ODU
 
 - title: "A Battle of Opinions: Tools vs. Humans (and Humans vs. Humans) in Sentiment Analysis"
   date: 2025-03-26
@@ -28,6 +48,26 @@
     - Social Media
     - Machine Learning
 
+- title: "Tracking Political Trends Around US Presidential Election"
+  date: 2025-02-11
+  url: "https://ws-dl.blogspot.com/2025/02/2025-02-11-tracking-political-trends.html"
+  venue: "WS-DL Blog"
+  excerpt: "Team Titans won the PhD category of ODU's CSGS Hackathon 2024 by analyzing trending election hashtags on X using keyword analysis, sentiment analysis, and topic modeling around the 2024 U.S. presidential election."
+  tags:
+    - Hackathon
+    - Social Media
+    - Sentiment Analysis
+
+- title: "Trust and Influence Program Review Meeting 2024 Trip Report"
+  date: 2024-09-04
+  url: "https://ws-dl.blogspot.com/2024/09/2024-09-xx-trust-and-influence-program.html"
+  venue: "WS-DL Blog"
+  excerpt: "Trip report from the AFOSR 2024 Trust and Influence Program Review in Dayton, Ohio, attended as part of our Minerva Research Initiative grant on innovating interdisciplinary methods for hard-to-reach environments."
+  tags:
+    - Conferences
+    - Research
+    - AFOSR
+
 - title: "Tools for Using the Internet Archive's TV News Archive as Research Data"
   date: 2024-08-07
   url: "https://ws-dl.blogspot.com/2024/08/2024-08-07-tools-for-using-internet.html"
@@ -38,6 +78,26 @@
     - Internet Archive
     - GDELT
 
+- title: "Lil Tay's Fake Death Announcement: The Quest for a Deleted Instagram Post in Web Archives"
+  date: 2023-08-22
+  url: "https://ws-dl.blogspot.com/2023/08/2023-08-22-quest-for-deleted-instagram.html"
+  venue: "WS-DL Blog"
+  excerpt: "When Lil Tay's Instagram account posted a false death announcement in August 2023, we traced the deleted post through web archives—finding one replayable memento on Archive.is despite no successful copies in the Internet Archive."
+  tags:
+    - Instagram
+    - Web Archiving
+    - Social Media
+
+- title: "A Milestone Achieved: Completing my Master's Degree and Advancing to PhD Candidacy"
+  date: 2023-06-15
+  url: "https://ws-dl.blogspot.com/2023/06/2023-06-15-milestone-achieved.html"
+  venue: "WS-DL Blog"
+  excerpt: "Reflecting on completing my MS thesis, \"Supporting Account-based Queries for Archived Instagram Posts,\" and advancing to PhD candidacy in the WS-DL research group at ODU."
+  tags:
+    - ODU
+    - PhD
+    - Web Archiving
+
 - title: "PDFServer - Our Summer Internship at LANL"
   date: 2022-12-21
   url: "https://ws-dl.blogspot.com/2022/12/2022-12-21-pdfserver-our-summer.html"
@@ -47,6 +107,26 @@
     - LANL
     - PDF
     - Web Archiving
+
+- title: "Digging Up a Gem Through the Web Archives"
+  date: 2021-09-20
+  url: "https://ws-dl.blogspot.com/2021/09/2021-09-20-digging-up-gem-through-web.html"
+  venue: "WS-DL Blog"
+  excerpt: "Using the Wayback Machine to rediscover mementos of my high school brass band days at Devi Balika Vidyalaya, Colombo—starting from a Googlewhack for \"himarsha dbvsbb\" and digging into archived newspaper features."
+  tags:
+    - Web Archiving
+    - Internet Archive
+    - Personal
+
+- title: "Data Science High School Summer Camp 2021"
+  date: 2021-09-15
+  url: "https://ws-dl.blogspot.com/2021/09/2021-09-xx-data-science-high-school.html"
+  venue: "WS-DL Blog"
+  excerpt: "Recap of ODU's 10-day data science summer camp for Norfolk high school students—teaching Python, NumPy, data visualization, and hands-on activities in a hybrid onsite/virtual program."
+  tags:
+    - Teaching
+    - ODU
+    - Data Science
 
 - title: "Creation Time and Published Time Are Not the Same: Estimating the Instagram Epoch"
   date: 2021-02-20
@@ -107,3 +187,13 @@
     - Twitter
     - Web Archiving
     - Social Media
+
+- title: "Himarsha Jayanetti (Computer Science Master's Student)"
+  date: 2020-01-01
+  url: "https://ws-dl.blogspot.com/2020/01/2020-01-01-himarsha-jayanetti-computer.html"
+  venue: "WS-DL Blog"
+  excerpt: "My introduction to the WS-DL blog as a new ODU Master's student from Sri Lanka, researching access patterns of robots vs. humans in the Internet Archive with collaborator Kritika Garg."
+  tags:
+    - ODU
+    - Web Archiving
+    - Internet Archive
