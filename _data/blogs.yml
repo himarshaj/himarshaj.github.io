@@ -1,0 +1,99 @@
+- title: "Summer Project as a Google Summer of Code (GSoC) Contributor"
+  date: 2025-09-29
+  url: "https://ws-dl.blogspot.com/2025/09/2025-09-29-summer-project-as-google.html"
+  venue: "WS-DL Blog"
+  excerpt: "This summer (summer of 2025), I got the opportunity to be a Google Summer of Code (GSoC) contributor. I worked with the TV News Archive at the Internet Archive under the mentorship of Dr. Sawood Alam, focusing on detecting social media content in TV news through logo and post screenshot detection."
+  tags:
+    - GSoC
+    - Internet Archive
+    - TV News Archive
+
+- title: "A Battle of Opinions: Tools vs. Humans (and Humans vs. Humans) in Sentiment Analysis"
+  date: 2025-03-26
+  url: "https://ws-dl.blogspot.com/2025/03/2025-03-26-battle-of-opinions-tools-vs_61.html"
+  venue: "WS-DL Blog"
+  excerpt: "We analyzed the sentiment of 100 tweets using three sentiment analysis tools (TextBlob, VADER, and a RoBERTa-base model) and six human raters, finding that consensus was hard to reach—even among humans—and that RoBERTa showed the best alignment with human ratings."
+  tags:
+    - Sentiment Analysis
+    - Social Media
+    - Machine Learning
+
+- title: "Tools for Using the Internet Archive's TV News Archive as Research Data"
+  date: 2024-08-07
+  url: "https://ws-dl.blogspot.com/2024/08/2024-08-07-tools-for-using-internet.html"
+  venue: "WS-DL Blog"
+  excerpt: "A survey of tools built on top of the Internet Archive's TV News Archive—including Third Eye, GDELT Television Explorer, GDELT AI Television Explorer, and GDELT TV News Visual Explorer—for analyzing and visualizing broadcast television news."
+  tags:
+    - TV News Archive
+    - Internet Archive
+    - GDELT
+
+- title: "PDFServer - Our Summer Internship at LANL"
+  date: 2022-12-21
+  url: "https://ws-dl.blogspot.com/2022/12/2022-12-21-pdfserver-our-summer.html"
+  venue: "WS-DL Blog"
+  excerpt: "A recap of our 2022 summer internship at Los Alamos National Laboratory, where we developed PDFServer—a prototype to extract metadata, generate social cards, and robustify links from scientific PDF documents for LANL's RASSTI workflow."
+  tags:
+    - LANL
+    - PDF
+    - Web Archiving
+
+- title: "Creation Time and Published Time Are Not the Same: Estimating the Instagram Epoch"
+  date: 2021-02-20
+  url: "https://ws-dl.blogspot.com/2021/02/2021-02-20-creation-time-and-published.html"
+  venue: "WS-DL Blog"
+  excerpt: "While studying how to extract published datetime from Instagram post URLs, we uncovered a discrepancy between the published time in HTML and the creation time embedded in the post shortcode, with implications for sorting events by Instagram publishing time."
+  tags:
+    - Instagram
+    - Web Archiving
+    - Social Media
+
+- title: "Twitter Rewrites Your URLs, but Assumes You'll Never Rewrite Theirs: More Problems Replaying Archived Twitter"
+  date: 2021-01-22
+  url: "https://ws-dl.blogspot.com/2021/01/2020-01-22-twitter-rewrites-your-urls.html"
+  venue: "WS-DL Blog"
+  excerpt: "An investigation into how Twitter rewrites outbound URLs and the additional replay challenges this creates when trying to faithfully reproduce archived Twitter pages."
+  tags:
+    - Twitter
+    - Web Archiving
+    - URL Rewriting
+
+- title: "Twitter Added Labels On Its Old User Interface"
+  date: 2020-12-08
+  url: "https://ws-dl.blogspot.com/2020/12/2020-12-08-twitter-added-labels-on-its.html"
+  venue: "WS-DL Blog"
+  excerpt: "Twitter retroactively added warning labels to tweets on its old user interface, creating mismatches between what was originally archived and what users see when replaying older Twitter mementos."
+  tags:
+    - Twitter
+    - Web Archiving
+    - Social Media
+
+- title: "How Well Is Instagram Archived?"
+  date: 2020-11-04
+  url: "https://ws-dl.blogspot.com/2020/11/2020-11-04-how-well-is-instagram.html"
+  venue: "WS-DL Blog"
+  excerpt: "Using Katy Perry's Instagram account as a case study, we found that only about one-third of her individual posts were archived in public web archives—far behind Twitter and Facebook—despite Instagram's massive user base."
+  tags:
+    - Instagram
+    - Web Archiving
+    - Mementos
+
+- title: "New Twitter UI: Replaying Archived Twitter Pages That Never Existed"
+  date: 2020-11-04
+  url: "https://ws-dl.blogspot.com/2020/11/2020-11-04-new-twitter-ui-replaying.html"
+  venue: "WS-DL Blog"
+  excerpt: "Twitter's new user interface can cause archived Twitter pages to replay as layouts that never existed at crawl time, introducing further fidelity problems for web archive replay."
+  tags:
+    - Twitter
+    - Web Archiving
+    - Replay
+
+- title: "Twitter Was Already Difficult To Archive, Now It's Worse!"
+  date: 2020-07-15
+  url: "https://ws-dl.blogspot.com/2020/07/2020-07-15-twitter-was-already.html"
+  venue: "WS-DL Blog"
+  excerpt: "Changes to Twitter made an already challenging archiving problem even harder, compounding difficulties in capturing and replaying Twitter content in web archives."
+  tags:
+    - Twitter
+    - Web Archiving
+    - Social Media
