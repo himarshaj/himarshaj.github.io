@@ -2,114 +2,122 @@
    EXTERNAL BLOG POST CARDS
    ========================================================================== */
 
-.blog-intro {
-  margin-bottom: 1.5em;
-}
-
-.blog-grid {
-  display: grid;
-  gap: 1.5em;
-}
-
-.blog-card {
-  border: 1px solid $border-color;
-  border-radius: 6px;
-  background: #fff;
-  transition: box-shadow 0.2s ease, transform 0.2s ease;
-
-  &:hover {
-    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
-    transform: translateY(-2px);
+.archive,
+.page__content {
+  .blog-intro {
+    margin-bottom: 1.5em;
   }
-}
 
-.blog-card__link {
-  display: block;
-  padding: 1.25em 1.5em;
-  color: inherit;
-  text-decoration: none;
+  .blog-grid {
+    display: grid;
+    gap: 1.5em;
+    margin-top: 1em;
+  }
 
-  &:hover {
-    text-decoration: none;
+  .blog-card {
+    border: 1px solid #d0d4d7;
+    border-radius: 8px;
+    background: #fff;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.06);
+    transition: box-shadow 0.2s ease, transform 0.2s ease;
+
+    &:hover {
+      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+      transform: translateY(-2px);
+    }
+  }
+
+  .blog-card__link {
+    display: block;
+    padding: 1.25em 1.5em;
     color: inherit;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: none;
+      color: inherit;
+    }
   }
-}
 
-.blog-card__meta {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.75em;
-  margin-bottom: 0.5em;
-  font-size: $type-size-6;
-  color: mix(#000, $gray, 40%);
+  .blog-card__meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75em;
+    margin-bottom: 0.5em;
+    font-size: $type-size-6;
+    color: mix(#000, $gray, 40%);
 
-  time {
-    font-weight: bold;
+    time {
+      font-weight: bold;
+    }
   }
-}
 
-.blog-card__venue {
-  i {
-    margin-right: 0.25em;
-    color: #f57d00;
+  .blog-card__venue {
+    i {
+      margin-right: 0.25em;
+      color: #f57d00;
+    }
   }
-}
 
-.blog-card__title {
-  margin: 0 0 0.75em;
-  font-size: $type-size-3;
-  line-height: 1.3;
-  color: $dark-gray;
-}
+  .blog-card__title {
+    margin: 0 0 0.75em;
+    padding-bottom: 0;
+    border-bottom: none;
+    font-size: $type-size-3;
+    line-height: 1.3;
+    color: $dark-gray;
+  }
 
-.blog-card__excerpt {
-  margin: 0 0 1em;
-  line-height: 1.6;
-  color: mix(#000, $gray, 20%);
-}
+  .blog-card__excerpt {
+    margin: 0 0 1em;
+    line-height: 1.6;
+    color: mix(#000, $gray, 20%);
+  }
 
-.blog-card__tags {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.5em;
-  margin: 0;
-  padding: 0;
-  list-style: none;
+  .blog-card__tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5em;
+    margin: 0;
+    padding: 0;
+    list-style: none;
 
-  li {
-    padding: 0.2em 0.65em;
-    font-size: $type-size-7;
+    li {
+      padding: 0.2em 0.65em;
+      font-size: $type-size-7;
+      font-weight: bold;
+      color: $primary-color;
+      background: mix(#fff, $primary-color, 90%);
+      border: 1px solid mix(#fff, $primary-color, 75%);
+      border-radius: 999px;
+      list-style: none;
+    }
+  }
+
+  .blog-card__footer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    gap: 0.75em;
+    margin-top: 1.25em;
+    padding-top: 1em;
+    border-top: 1px solid $border-color;
+  }
+
+  .blog-card__cta {
     font-weight: bold;
     color: $primary-color;
-    background: mix(#fff, $primary-color, 90%);
-    border: 1px solid mix(#fff, $primary-color, 75%);
-    border-radius: 999px;
+
+    i {
+      margin-left: 0.35em;
+      font-size: 0.85em;
+    }
   }
-}
 
-.blog-card__footer {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  align-items: center;
-  gap: 0.75em;
-  margin-top: 1.25em;
-  padding-top: 1em;
-  border-top: 1px solid $border-color;
-}
-
-.blog-card__cta {
-  font-weight: bold;
-  color: $primary-color;
-
-  i {
-    margin-left: 0.35em;
-    font-size: 0.85em;
+  .blog-card__url {
+    font-size: $type-size-7;
+    color: mix(#000, $gray, 35%);
+    word-break: break-all;
   }
-}
-
-.blog-card__url {
-  font-size: $type-size-7;
-  color: mix(#000, $gray, 35%);
-  word-break: break-all;
 }
