@@ -4,36 +4,25 @@
   <p>Selected posts I have contributed to the <a href="https://ws-dl.blogspot.com/" target="_blank" rel="noopener">Web Science and Digital Libraries (WS-DL) research blog</a>.</p>
 </div>
 
-<div class="blog-grid">
-  {% assign sorted_blogs = site.data.blogs | sort: "date" | reverse %}
-  {% for blog in sorted_blogs %}
-    <article class="blog-card">
-      <a class="blog-card__link" href="{{ blog.url }}" target="_blank" rel="noopener" aria-label="Read {{ blog.title }} on {{ blog.venue }}">
-        <div class="blog-card__header">
-          <div class="blog-card__meta">
-            <time datetime="{{ blog.date }}">{{ blog.date | date: "%B %d, %Y" }}</time>
-            <span class="blog-card__venue"><i class="fab fa-blogger" aria-hidden="true"></i> {{ blog.venue }}</span>
-          </div>
-          <h2 class="blog-card__title">{{ blog.title }}</h2>
-        </div>
+{% assign technical_blogs = site.data.blogs | where: "category", "technical" | sort: "date" | reverse %}
+{% assign experience_blogs = site.data.blogs | where: "category", "experience" | sort: "date" | reverse %}
 
-        <div class="blog-card__body">
-          <p class="blog-card__excerpt">{{ blog.excerpt }}</p>
+<section class="blog-section">
+  <h2 class="blog-section__title">Technical Posts</h2>
+  <p class="blog-section__desc">Research findings, tools, and technical investigations on web archiving and social media.</p>
+  <div class="blog-grid">
+    {% for blog in technical_blogs %}
+      {% include blog-card.html blog=blog %}
+    {% endfor %}
+  </div>
+</section>
 
-          {% if blog.tags %}
-            <ul class="blog-card__tags">
-              {% for tag in blog.tags %}
-                <li>{{ tag }}</li>
-              {% endfor %}
-            </ul>
-          {% endif %}
-        </div>
-
-        <div class="blog-card__footer">
-          <span class="blog-card__cta">Read full post <i class="fas fa-external-link-alt" aria-hidden="true"></i></span>
-          <span class="blog-card__url">{{ blog.url | replace: 'https://', '' }}</span>
-        </div>
-      </a>
-    </article>
-  {% endfor %}
-</div>
+<section class="blog-section">
+  <h2 class="blog-section__title">Professional Highlights</h2>
+  <p class="blog-section__desc">Conference trips, teaching, internships, career milestones, and reflections.</p>
+  <div class="blog-grid">
+    {% for blog in experience_blogs %}
+      {% include blog-card.html blog=blog %}
+    {% endfor %}
+  </div>
+</section>

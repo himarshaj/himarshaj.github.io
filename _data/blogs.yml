@@ -2,6 +2,7 @@
   date: 2026-06-09
   url: "https://ws-dl.blogspot.com/2026/06/2026-06-01-teaching-database-concepts.html"
   venue: "WS-DL Blog"
+  category: experience
   excerpt: "In Spring 2026, I taught CS 450/550: Database Concepts at ODU—a fully online course with live Zoom sessions. This post shares my first experience teaching a senior undergraduate/graduate course, from course setup and grading to student feedback that shaped the semester."
   tags:
     - Teaching
@@ -12,6 +13,7 @@
   date: 2025-10-10
   url: "https://ws-dl.blogspot.com/2025/10/2025-10-10-internship-experience-with_10.html"
   venue: "WS-DL Blog"
+  category: experience
   excerpt: "A reflection on my Google Summer of Code 2025 experience at the Internet Archive—working with mentors on detecting social media content in TV news, pivoting from traditional ML to LLMs, and learning to collaborate in open source."
   tags:
     - GSoC
@@ -22,6 +24,7 @@
   date: 2025-09-29
   url: "https://ws-dl.blogspot.com/2025/09/2025-09-29-summer-project-as-google.html"
   venue: "WS-DL Blog"
+  category: technical
   excerpt: "This summer (summer of 2025), I got the opportunity to be a Google Summer of Code (GSoC) contributor. I worked with the TV News Archive at the Internet Archive under the mentorship of Dr. Sawood Alam, focusing on detecting social media content in TV news through logo and post screenshot detection."
   tags:
     - GSoC
@@ -32,6 +35,7 @@
   date: 2025-05-12
   url: "https://ws-dl.blogspot.com/2025/05/2025-05-12-acm-capital-region.html"
   venue: "WS-DL Blog"
+  category: experience
   excerpt: "Trip report from CAPWIC 2025 at George Washington University, where eight ODU CS Ph.D. students—including five from WS-DL—attended keynotes, research sessions, and presented posters."
   tags:
     - CAPWIC
@@ -42,6 +46,7 @@
   date: 2025-03-26
   url: "https://ws-dl.blogspot.com/2025/03/2025-03-26-battle-of-opinions-tools-vs_61.html"
   venue: "WS-DL Blog"
+  category: technical
   excerpt: "We analyzed the sentiment of 100 tweets using three sentiment analysis tools (TextBlob, VADER, and a RoBERTa-base model) and six human raters, finding that consensus was hard to reach—even among humans—and that RoBERTa showed the best alignment with human ratings."
   tags:
     - Sentiment Analysis
@@ -52,6 +57,7 @@
   date: 2025-02-11
   url: "https://ws-dl.blogspot.com/2025/02/2025-02-11-tracking-political-trends.html"
   venue: "WS-DL Blog"
+  category: technical
   excerpt: "Team Titans won the PhD category of ODU's CSGS Hackathon 2024 by analyzing trending election hashtags on X using keyword analysis, sentiment analysis, and topic modeling around the 2024 U.S. presidential election."
   tags:
     - Hackathon
@@ -62,6 +68,7 @@
   date: 2024-09-04
   url: "https://ws-dl.blogspot.com/2024/09/2024-09-xx-trust-and-influence-program.html"
   venue: "WS-DL Blog"
+  category: experience
   excerpt: "Trip report from the AFOSR 2024 Trust and Influence Program Review in Dayton, Ohio, attended as part of our Minerva Research Initiative grant on innovating interdisciplinary methods for hard-to-reach environments."
   tags:
     - Conferences
@@ -72,6 +79,7 @@
   date: 2024-08-07
   url: "https://ws-dl.blogspot.com/2024/08/2024-08-07-tools-for-using-internet.html"
   venue: "WS-DL Blog"
+  category: technical
   excerpt: "A survey of tools built on top of the Internet Archive's TV News Archive—including Third Eye, GDELT Television Explorer, GDELT AI Television Explorer, and GDELT TV News Visual Explorer—for analyzing and visualizing broadcast television news."
   tags:
     - TV News Archive
@@ -82,6 +90,7 @@
   date: 2023-08-22
   url: "https://ws-dl.blogspot.com/2023/08/2023-08-22-quest-for-deleted-instagram.html"
   venue: "WS-DL Blog"
+  category: technical
   excerpt: "When Lil Tay's Instagram account posted a false death announcement in August 2023, we traced the deleted post through web archives—finding one replayable memento on Archive.is despite no successful copies in the Internet Archive."
   tags:
     - Instagram
@@ -92,6 +101,7 @@
   date: 2023-06-15
   url: "https://ws-dl.blogspot.com/2023/06/2023-06-15-milestone-achieved.html"
   venue: "WS-DL Blog"
+  category: experience
   excerpt: "Reflecting on completing my MS thesis, \"Supporting Account-based Queries for Archived Instagram Posts,\" and advancing to PhD candidacy in the WS-DL research group at ODU."
   tags:
     - ODU
@@ -102,6 +112,7 @@
   date: 2022-12-21
   url: "https://ws-dl.blogspot.com/2022/12/2022-12-21-pdfserver-our-summer.html"
   venue: "WS-DL Blog"
+  category: technical
   excerpt: "A recap of our 2022 summer internship at Los Alamos National Laboratory, where we developed PDFServer—a prototype to extract metadata, generate social cards, and robustify links from scientific PDF documents for LANL's RASSTI workflow."
   tags:
     - LANL
@@ -112,6 +123,7 @@
   date: 2021-09-20
   url: "https://ws-dl.blogspot.com/2021/09/2021-09-20-digging-up-gem-through-web.html"
   venue: "WS-DL Blog"
+  category: technical
   excerpt: "Using the Wayback Machine to rediscover mementos of my high school brass band days at Devi Balika Vidyalaya, Colombo—starting from a Googlewhack for \"himarsha dbvsbb\" and digging into archived newspaper features."
   tags:
     - Web Archiving
@@ -122,6 +134,7 @@
   date: 2021-09-15
   url: "https://ws-dl.blogspot.com/2021/09/2021-09-xx-data-science-high-school.html"
   venue: "WS-DL Blog"
+  category: experience
   excerpt: "Recap of ODU's 10-day data science summer camp for Norfolk high school students—teaching Python, NumPy, data visualization, and hands-on activities in a hybrid onsite/virtual program."
   tags:
     - Teaching
@@ -132,6 +145,7 @@
   date: 2021-02-20
   url: "https://ws-dl.blogspot.com/2021/02/2021-02-20-creation-time-and-published.html"
   venue: "WS-DL Blog"
+  category: technical
   excerpt: "While studying how to extract published datetime from Instagram post URLs, we uncovered a discrepancy between the published time in HTML and the creation time embedded in the post shortcode, with implications for sorting events by Instagram publishing time."
   tags:
     - Instagram
@@ -142,6 +156,7 @@
   date: 2021-01-22
   url: "https://ws-dl.blogspot.com/2021/01/2020-01-22-twitter-rewrites-your-urls.html"
   venue: "WS-DL Blog"
+  category: technical
   excerpt: "An investigation into how Twitter rewrites outbound URLs and the additional replay challenges this creates when trying to faithfully reproduce archived Twitter pages."
   tags:
     - Twitter
@@ -152,6 +167,7 @@
   date: 2020-12-08
   url: "https://ws-dl.blogspot.com/2020/12/2020-12-08-twitter-added-labels-on-its.html"
   venue: "WS-DL Blog"
+  category: technical
   excerpt: "Twitter retroactively added warning labels to tweets on its old user interface, creating mismatches between what was originally archived and what users see when replaying older Twitter mementos."
   tags:
     - Twitter
@@ -162,6 +178,7 @@
   date: 2020-11-04
   url: "https://ws-dl.blogspot.com/2020/11/2020-11-04-how-well-is-instagram.html"
   venue: "WS-DL Blog"
+  category: technical
   excerpt: "Using Katy Perry's Instagram account as a case study, we found that only about one-third of her individual posts were archived in public web archives—far behind Twitter and Facebook—despite Instagram's massive user base."
   tags:
     - Instagram
@@ -172,6 +189,7 @@
   date: 2020-11-04
   url: "https://ws-dl.blogspot.com/2020/11/2020-11-04-new-twitter-ui-replaying.html"
   venue: "WS-DL Blog"
+  category: technical
   excerpt: "Twitter's new user interface can cause archived Twitter pages to replay as layouts that never existed at crawl time, introducing further fidelity problems for web archive replay."
   tags:
     - Twitter
@@ -182,6 +200,7 @@
   date: 2020-07-15
   url: "https://ws-dl.blogspot.com/2020/07/2020-07-15-twitter-was-already.html"
   venue: "WS-DL Blog"
+  category: technical
   excerpt: "Changes to Twitter made an already challenging archiving problem even harder, compounding difficulties in capturing and replaying Twitter content in web archives."
   tags:
     - Twitter
@@ -192,6 +211,7 @@
   date: 2020-01-01
   url: "https://ws-dl.blogspot.com/2020/01/2020-01-01-himarsha-jayanetti-computer.html"
   venue: "WS-DL Blog"
+  category: experience
   excerpt: "My introduction to the WS-DL blog as a new ODU Master's student from Sri Lanka, researching access patterns of robots vs. humans in the Internet Archive with collaborator Kritika Garg."
   tags:
     - ODU

@@ -8,6 +8,28 @@
     margin-bottom: 1.5em;
   }
 
+  .blog-section {
+    margin-bottom: 2.5em;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+
+  .blog-section__title {
+    margin: 0 0 0.35em;
+    padding-bottom: 0.35em;
+    border-bottom: 2px solid $primary-color;
+    font-size: $type-size-3;
+    color: $dark-gray;
+  }
+
+  .blog-section__desc {
+    margin: 0 0 1.25em;
+    font-size: $type-size-6;
+    color: mix(#000, $gray, 30%);
+  }
+
   .blog-grid {
     display: grid;
     grid-template-columns: 1fr;
