@@ -1,15 +1,14 @@
 # main links links
 main:
 
-
-  - title: "Blog Posts"
-    url: /blogposts/
+  - title: "Publications"
+    url: /publications/
 
   - title: "Projects"
     url: /projects/
 
-  - title: "Publications"
-    url: /publications/
+  - title: "Blog Posts"
+    url: /blogposts/
 
   - title: "Teaching"
     url: /teaching/
