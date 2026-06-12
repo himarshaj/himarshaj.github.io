@@ -29,7 +29,15 @@
   }
 }
 
+.archive,
+.page .page__content {
+  .pub-icon-legend {
+    width: 100%;
+  }
+}
+
 .archive .page__content,
+.archive .archive__item-excerpt,
 .page .page__content {
   a {
     > .ai-arxiv {

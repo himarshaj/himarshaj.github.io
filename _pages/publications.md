@@ -16,6 +16,8 @@ redirect_from:
   You can also find my publications on <a href="{{author.googlescholar}}" target="_blank">my Google Scholar profile</a>.
 {% endif %}
 
+{% include publication-icon-legend.html %}
+
 {% include base_path %}
 
 {% for post in site.publications reversed %}
