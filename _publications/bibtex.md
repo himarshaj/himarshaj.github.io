@@ -65,7 +65,7 @@ Shawn M. Jones, Himarsha R. Jayanetti, Martin Klein, Michele C. Weigle, and Mich
 ```
 # [jayanetti-sbp23](#jayanetti-sbp23)
 
-Himarsha R. Jayanetti, Erika Frydenlund, and Michele C. Weigle, "**Xenophobic Events vs. Refugee Population -- Using GDELT to Identify Countries with Disproportionate Coverage**," Poster presented at the 16th International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRIMS), September 2023. &nbsp;<a href='https://arxiv.org/abs/2308.05038' target='_blank' class='btn btn--mcwarxiv'><img src='../images/arxiv-logo-16px-high.png'/></a>
+Himarsha R. Jayanetti, Erika Frydenlund, and Michele C. Weigle, "**Xenophobic Events vs. Refugee Population -- Using GDELT to Identify Countries with Disproportionate Coverage**," Poster presented at the 16th International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRIMS), September 2023. &nbsp;<a href='https://arxiv.org/abs/2308.05038' target='_blank'><i class='ai ai-fw ai-arxiv'></i></a>
 
 [](#jayanetti-sbp23Bib)
 **Bibtex entry:**
@@ -120,7 +120,7 @@ Haley Bragg, Himarsha Jayanetti, Michael L. Nelson, and Michele C. Weigle, "**Le
 ```
 # [choudhury-jcdl23](#choudhury-jcdl23)
 
-Muntabir Hasan Choudhury, Lamia Salsabil, Himarsha Jayanetti, Jian Wu, William A. Ingram, and Edward A. Fox, "**MetaEnhance: Metadata Quality Improvement for Electronic Theses and Dissertations of University Libraries**," In *Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. June 2023, short paper. ***Best Short Paper Award***.  &nbsp;<a href='https://arxiv.org/abs/2303.17661' target='_blank' class='btn btn--mcwarxiv'><img src='../images/arxiv-logo-16px-high.png'/></a>
+Muntabir Hasan Choudhury, Lamia Salsabil, Himarsha Jayanetti, Jian Wu, William A. Ingram, and Edward A. Fox, "**MetaEnhance: Metadata Quality Improvement for Electronic Theses and Dissertations of University Libraries**," In *Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. June 2023, short paper. ***Best Short Paper Award***.  &nbsp;<a href='https://arxiv.org/abs/2303.17661' target='_blank'><i class='ai ai-fw ai-arxiv'></i></a>
 
 [](#choudhury-jcdl23Bib)
 **Bibtex entry:**
@@ -159,7 +159,7 @@ Himarsha R. Jayanetti, "**Supporting Account-Based Queries for Archived Instagra
 ```
 # [jayanetti-msvcc23](#jayanetti-msvcc23)
 
-Himarsha R. Jayanetti, Erika Frydenlund, and Michele C. Weigle, "**Exploring Xenophobic Events through GDELT Data Analysis**," Technical report arXiv:2305.01708, Paper presented at the 16th Annual Modeling, Simulation, and Visualization Student Capstone Conference, May 2023. ***Best Overall Paper, Best Paper in Data Science track Award***.  &nbsp;<a href='https://arxiv.org/abs/2305.01708' target='_blank' class='btn btn--mcwarxiv'><img src='../images/arxiv-logo-16px-high.png'/></a>
+Himarsha R. Jayanetti, Erika Frydenlund, and Michele C. Weigle, "**Exploring Xenophobic Events through GDELT Data Analysis**," Technical report arXiv:2305.01708, Paper presented at the 16th Annual Modeling, Simulation, and Visualization Student Capstone Conference, May 2023. ***Best Overall Paper, Best Paper in Data Science track Award***.  &nbsp;<a href='https://arxiv.org/abs/2305.01708' target='_blank'><i class='ai ai-fw ai-arxiv'></i></a>
 
 [](#jayanetti-msvcc23Bib)
 **Bibtex entry:**
@@ -197,7 +197,7 @@ Kritika Garg, Himarsha Jayanetti, Sawood Alam, Michele C. Weigle, and Michael L.
 ```
 # [jayanetti-tpdl22a](#jayanetti-tpdl22a)
 
-Himarsha Jayanetti, Kritika Garg, Sawood Alam, Michael L. Nelson, and Michele C. Weigle, "**Robots Still Outnumber Humans in Web Archives, But Less Than Before**," In *Proceedings of the Theory and Practice of Digital Libraries Conference (TPDL)*. September 2022. ***Best Student Paper Award***.  &nbsp;<a href='https://arxiv.org/abs/2208.12914' target='_blank' class='btn btn--mcwarxiv'><img src='../images/arxiv-logo-16px-high.png'/></a>
+Himarsha Jayanetti, Kritika Garg, Sawood Alam, Michael L. Nelson, and Michele C. Weigle, "**Robots Still Outnumber Humans in Web Archives, But Less Than Before**," In *Proceedings of the Theory and Practice of Digital Libraries Conference (TPDL)*. September 2022. ***Best Student Paper Award***.  &nbsp;<a href='https://arxiv.org/abs/2208.12914' target='_blank'><i class='ai ai-fw ai-arxiv'></i></a>
 
 [](#jayanetti-tpdl22aBib)
 **Bibtex entry:**
@@ -290,7 +290,7 @@ Shawn M. Jones, Himarsha R. Jayanetti, Alex Osborne, Paul Koerbin,  Martin Klein
 ```
 # [garg-jcdl21](#garg-jcdl21)
 
-Kritika Garg, Himarsha R. Jayanetti, Sawood Alam, Michele C. Weigle, and Michael L. Nelson, "**Replaying Archived Twitter: When your bird is broken, will it bring you down?**," In *Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. September 2021, pp. 160-169. <a href='http://dx.doi.org/10.1109/JCDL52503.2021.00028' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a> &nbsp;<a href='https://arxiv.org/abs/2108.12092' target='_blank' class='btn btn--mcwarxiv'><img src='../images/arxiv-logo-16px-high.png'/></a>
+Kritika Garg, Himarsha R. Jayanetti, Sawood Alam, Michele C. Weigle, and Michael L. Nelson, "**Replaying Archived Twitter: When your bird is broken, will it bring you down?**," In *Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. September 2021, pp. 160-169. <a href='http://dx.doi.org/10.1109/JCDL52503.2021.00028' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a> &nbsp;<a href='https://arxiv.org/abs/2108.12092' target='_blank'><i class='ai ai-fw ai-arxiv'></i></a>
 
 [](#garg-jcdl21Bib)
 **Bibtex entry:**

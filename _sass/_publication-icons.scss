@@ -1,0 +1,43 @@
+/* Publication link icons (match simple DOI / PDF icon style) */
+
+.pub-icon-legend {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.75em 1.25em;
+  margin: 0 0 1.5em;
+  padding: 0.65em 1em;
+  font-size: $type-size-6;
+  color: mix(#000, $gray, 25%);
+  background: mix(#fff, $border-color, 50%);
+  border: 1px solid $border-color;
+  border-radius: 6px;
+
+  &__label {
+    font-weight: bold;
+    color: $dark-gray;
+  }
+
+  &__item {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35em;
+
+    i {
+      font-size: 1.1em;
+    }
+  }
+}
+
+.archive .page__content,
+.page .page__content {
+  a {
+    > .ai-arxiv {
+      color: #b31b1b;
+    }
+
+    > .pub-icon--bibtex {
+      color: #008080;
+    }
+  }
+}

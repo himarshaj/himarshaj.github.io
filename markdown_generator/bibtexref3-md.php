@@ -40,8 +40,8 @@ $BibtexDoiIcon = "<i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'
 $BibtexPdfIcon = "<i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i>";
 $BibtexTripIcon = "<i class='fab fa-blogger' style='color: {{ page.blogger-color }}'></i>";
 $BibtexSlideshareButton = "class='btn btn--mcwslideshare'><img src='../images/slideshare-16px-high.png'/>";
-$BibtexArxivButton = "class='btn btn--mcwarxiv'><img src='../images/arxiv-logo-16px-high.png'/>";
-$BibtexBibtexButton = "class='btn btn--mcwbibtex'><img src='../images/BibTeX_logo-16px-high.png'/>";
+$BibtexArxivIcon = "<i class='ai ai-fw ai-arxiv'></i>";
+$BibtexBibtexIcon = "<i class='fas fa-fw fa-book pub-icon--bibtex'></i>";
 
 $BibtexGenerateDefaultUrlField = false;
 
@@ -388,8 +388,8 @@ class BibtexEntry {
 
         $arxiv = $this->get("ARXIV");
 	      if ($arxiv) {
-          global $BibtexArxivUrl, $BibtexArxivLink, $BibtexArxivButton, $UploadUrlFmt;
-          $ret = $ret . " &nbsp;<a href='" . $arxiv . "' target='_blank' " . $BibtexArxivButton . "</a>";
+          global $BibtexArxivUrl, $BibtexArxivLink, $BibtexArxivIcon, $UploadUrlFmt;
+          $ret = $ret . " &nbsp;<a href='" . $arxiv . "' target='_blank'>" . $BibtexArxivIcon . "</a>";
 //	        $ret = $ret . "[" . $BibtexArxivLink . "](" . $arxiv . ")" . ", ";
         }
 
@@ -409,7 +409,8 @@ class BibtexEntry {
 
         if ($dobibtex) {
           // BibTeX button
-          $ret = $ret . " &nbsp;<a href='" . $this->getCompleteEntryUrl() . "' target='_blank' " . $BibtexBibtexButton . "</a>";
+          global $BibtexBibtexIcon;
+          $ret = $ret . " &nbsp;<a href='" . $this->getCompleteEntryUrl() . "' target='_blank'>" . $BibtexBibtexIcon . "</a>";
 //	      $ret = $ret . "[" . $BibtexBibLink . "](" . $this->getCompleteEntryUrl() . "))";
         }
       }
