@@ -18,8 +18,6 @@ redirect_from:
 
 {% include base_path %}
 
-[Sorted by Type](/publications/pubsbytype/), [Award Publications](/publications/award/), [External Publication Lists](/publications/lists/)
-
 {% for post in site.publications reversed %}
   {% if post.type == "year" %}
     {% include archive-single.html %}
