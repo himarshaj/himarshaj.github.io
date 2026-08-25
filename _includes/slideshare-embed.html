@@ -1,0 +1,13 @@
+<details class="slideshare-embed">
+  <summary>View slides</summary>
+  <div class="slideshare-embed__frame">
+    <iframe
+      src="https://www.slideshare.net/slideshow/embed_code/key/{{ include.key }}"
+      title="{{ include.title | default: 'SlideShare presentation' | escape }}"
+      loading="lazy"
+      allowfullscreen></iframe>
+  </div>
+  <p class="slideshare-embed__link">
+    <a href="{{ include.url }}" target="_blank" rel="noopener">Open on SlideShare</a>
+  </p>
+</details>

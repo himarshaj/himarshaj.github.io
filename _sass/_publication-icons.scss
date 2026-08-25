@@ -47,5 +47,60 @@
     > .pub-icon--bibtex {
       color: #008080;
     }
+
+    > .fa-slideshare {
+      color: #0077b5;
+    }
+  }
+}
+
+.slideshare-embed {
+  margin: 0.5em 0 1.25em;
+  padding: 0.5em 0.75em;
+  background: mix(#fff, $border-color, 55%);
+  border: 1px solid $border-color;
+  border-radius: 6px;
+
+  summary {
+    cursor: pointer;
+    font-weight: bold;
+    color: $dark-gray;
+    list-style-position: outside;
+
+    &:hover {
+      color: $link-color;
+    }
+  }
+
+  &__frame {
+    position: relative;
+    width: 100%;
+    max-width: 595px;
+    margin-top: 0.75em;
+    padding-top: 56.25%; /* 16:9 */
+    overflow: hidden;
+    background: #f7f7f7;
+    border: 1px solid $border-color;
+    border-radius: 4px;
+
+    iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+  }
+
+  &__link {
+    margin: 0.5em 0 0;
+    font-size: $type-size-6;
+  }
+}
+
+.presentation-list {
+  > li {
+    margin-bottom: 0.75em;
   }
 }
