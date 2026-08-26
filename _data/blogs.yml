@@ -86,6 +86,28 @@
     - Internet Archive
     - GDELT
 
+- title: "16th International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS) 2023 Trip Report"
+  date: 2024-01-29
+  url: "https://ws-dl.blogspot.com/2024/01/2024-01-29-16th-international.html"
+  venue: "WS-DL Blog"
+  category: experience
+  excerpt: "Trip report from SBP-BRiMS 2023, covering our poster on using GDELT to identify countries with disproportionate xenophobia-related news coverage relative to refugee populations."
+  tags:
+    - Conferences
+    - GDELT
+    - SBP-BRiMS
+
+- title: "MSV Student Capstone Conference (MSVSCC 2023) Trip Report"
+  date: 2023-12-06
+  url: "https://ws-dl.blogspot.com/2023/12/2023-12-06-msv-student-capstone.html"
+  venue: "WS-DL Blog"
+  category: experience
+  excerpt: "Trip report from MSVSCC 2023 at VMASC—the first Data Science track at the conference—where our GDELT xenophobia paper won Best Paper in Data Science and Best Overall Paper."
+  tags:
+    - Conferences
+    - MSVSCC
+    - Data Science
+
 - title: "Lil Tay's Fake Death Announcement: The Quest for a Deleted Instagram Post in Web Archives"
   date: 2023-08-22
   url: "https://ws-dl.blogspot.com/2023/08/2023-08-22-quest-for-deleted-instagram.html"
@@ -96,6 +118,17 @@
     - Instagram
     - Web Archiving
     - Social Media
+
+- title: "ACM/IEEE Joint Conference on Digital Libraries (JCDL) 2023 Trip Report"
+  date: 2023-07-26
+  url: "https://ws-dl.blogspot.com/2023/07/2023-07-26-acmieee-joint-conference-on.html"
+  venue: "WS-DL Blog"
+  category: experience
+  excerpt: "Trip report from JCDL 2023, including our short paper on replaying archived Instagram account pages for the Disinformation Dozen and related WS-DL presentations."
+  tags:
+    - Conferences
+    - JCDL
+    - Web Archiving
 
 - title: "A Milestone Achieved: Completing my Master's Degree and Advancing to PhD Candidacy"
   date: 2023-06-15
@@ -119,6 +152,28 @@
     - PDF
     - Web Archiving
 
+- title: "Theory and Practice of Digital Libraries (TPDL) 2022 Trip Report"
+  date: 2022-10-11
+  url: "https://ws-dl.blogspot.com/2022/10/2022-10-11-tpdl2022-trip-report.html"
+  venue: "WS-DL Blog"
+  category: experience
+  excerpt: "Trip report from TPDL 2022 in Padova, Italy, where we presented two papers—including work that received the Best Student Paper Award—and attended hybrid sessions with Emily Escamilla."
+  tags:
+    - Conferences
+    - TPDL
+    - Web Archiving
+
+- title: "ACM/IEEE Joint Conference on Digital Libraries (JCDL) 2022 Trip Report"
+  date: 2022-07-25
+  url: "https://ws-dl.blogspot.com/2022/07/2022-07-25-jcdl2022-trip-report.html"
+  venue: "WS-DL Blog"
+  category: experience
+  excerpt: "Trip report from hybrid JCDL 2022 in Cologne, covering WS-DL papers and related workshop presentations on web archiving and digital libraries."
+  tags:
+    - Conferences
+    - JCDL
+    - Web Archiving
+
 - title: "Digging Up a Gem Through the Web Archives"
   date: 2021-09-20
   url: "https://ws-dl.blogspot.com/2021/09/2021-09-20-digging-up-gem-through-web.html"
@@ -132,7 +187,7 @@
 
 - title: "Data Science High School Summer Camp 2021"
   date: 2021-09-15
-  url: "https://ws-dl.blogspot.com/2021/09/2021-09-xx-data-science-high-school.html"
+  url: "https://ws-dl.blogspot.com/2021/09/2021-09-15-data-science-high-school.html"
   venue: "WS-DL Blog"
   category: experience
   excerpt: "Recap of ODU's 10-day data science summer camp for Norfolk high school students—teaching Python, NumPy, data visualization, and hands-on activities in a hybrid onsite/virtual program."
@@ -154,7 +209,7 @@
 
 - title: "Twitter Rewrites Your URLs, but Assumes You'll Never Rewrite Theirs: More Problems Replaying Archived Twitter"
   date: 2021-01-22
-  url: "https://ws-dl.blogspot.com/2021/01/2020-01-22-twitter-rewrites-your-urls.html"
+  url: "https://ws-dl.blogspot.com/2021/01/2021-01-22-twitter-rewrites-your-urls.html"
   venue: "WS-DL Blog"
   category: technical
   excerpt: "An investigation into how Twitter rewrites outbound URLs and the additional replay challenges this creates when trying to faithfully reproduce archived Twitter pages."
@@ -176,7 +231,7 @@
 
 - title: "How Well Is Instagram Archived?"
   date: 2020-11-04
-  url: "https://ws-dl.blogspot.com/2020/11/2020-11-04-how-well-is-instagram.html"
+  url: "https://ws-dl.blogspot.com/2020/11/2020-11-04-how-well-is-instagram-archived.html"
   venue: "WS-DL Blog"
   category: technical
   excerpt: "Using Katy Perry's Instagram account as a case study, we found that only about one-third of her individual posts were archived in public web archives—far behind Twitter and Facebook—despite Instagram's massive user base."
