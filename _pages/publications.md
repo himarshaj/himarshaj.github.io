@@ -27,3 +27,5 @@ redirect_from:
 {% endfor %}
 
 {% include collaborators.html %}
+
+{% include funding.html %}

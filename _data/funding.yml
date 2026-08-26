@@ -1,0 +1,29 @@
+# Funding acknowledgments linked to publications
+# Each entry: source + grant (left), papers only (right)
+
+- source: "Institute of Museum and Library Services (IMLS)"
+  grant: "LG-37-19-0078-198"
+  papers:
+    - "Automatic Metadata Extraction Incorporating Visual Features from Scanned Electronic Theses and Dissertations"
+    - "MetaEnhance: Metadata Quality Improvement for Electronic Theses and Dissertations of University Libraries"
+
+- source: "IIPC and IMLS"
+  grant: "LG-71-15-0077-15 · RE-70-18-0005-18"
+  papers:
+    - "The DSA Toolkit Shines Light Into Dark and Stormy Archives"
+
+- source: "ODU Data Science Seed Funding Program"
+  grant: "2022–2023 Data Science for Social Good"
+  papers:
+    - "Exploring Xenophobic Events through GDELT Data Analysis"
+    - "Xenophobic Events vs. Refugee Population – Using GDELT to Identify Countries with Disproportionate Coverage"
+
+- source: "National Science Foundation (NSF)"
+  grant: "CISE REU Site Award #2149607"
+  papers:
+    - "Less than 4% of Archived Instagram Account Pages for the Disinformation Dozen are Replayable"
+
+- source: "Minerva Research Initiative / AFOSR"
+  grant: "FA9550-22-1-0297"
+  papers:
+    - "Nobody Truly Agrees on Sentiment: Humans, Bespoke Tools, and LLMs Struggle with Social Media Texts"

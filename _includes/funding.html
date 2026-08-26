@@ -1,0 +1,22 @@
+<section id="funding" class="funding" aria-labelledby="funding-heading">
+  <h2 id="funding-heading" class="funding__title">Funding</h2>
+  <p class="funding__intro">Support acknowledged in the following publications and projects.</p>
+
+  <div class="funding__list">
+    {% for item in site.data.funding %}
+      <div class="funding__row">
+        <div class="funding__source">
+          <p class="funding__source-name">{{ item.source }}</p>
+          <p class="funding__grant">{{ item.grant }}</p>
+        </div>
+        <div class="funding__body">
+          <ul class="funding__papers">
+            {% for paper in item.papers %}
+              <li><em>{{ paper }}</em></li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+</section>
