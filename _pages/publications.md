@@ -25,3 +25,5 @@ redirect_from:
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
+
+{% include collaborators.html %}

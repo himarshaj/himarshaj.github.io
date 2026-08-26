@@ -64,6 +64,17 @@
     - Social Media
     - Sentiment Analysis
 
+- title: "The 33rd ACM International Conference on Information and Knowledge Management (CIKM) 2024 Trip Report"
+  date: 2024-11-15
+  url: "https://ws-dl.blogspot.com/2024/11/2024-11-15-33rd-acm-international.html"
+  venue: "WS-DL Blog"
+  category: experience
+  excerpt: "Trip report from CIKM 2024, including the PhD symposium presentation on evaluating social media reach via mainstream media discourse."
+  tags:
+    - Conferences
+    - CIKM
+    - Social Media
+
 - title: "Trust and Influence Program Review Meeting 2024 Trip Report"
   date: 2024-09-04
   url: "https://ws-dl.blogspot.com/2024/09/2024-09-xx-trust-and-influence-program.html"
@@ -187,7 +198,7 @@
 
 - title: "Data Science High School Summer Camp 2021"
   date: 2021-09-15
-  url: "https://ws-dl.blogspot.com/2021/09/2021-09-15-data-science-high-school.html"
+  url: "https://ws-dl.blogspot.com/2021/09/2021-09-xx-data-science-high-school.html"
   venue: "WS-DL Blog"
   category: experience
   excerpt: "Recap of ODU's 10-day data science summer camp for Norfolk high school students—teaching Python, NumPy, data visualization, and hands-on activities in a hybrid onsite/virtual program."

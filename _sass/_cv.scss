@@ -1,0 +1,42 @@
+/* In-browser CV PDF viewer */
+
+.cv-actions {
+  margin: 0 0 1.25em;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.75em 1.25em;
+}
+
+.cv-viewer {
+  width: 100%;
+  border: 1px solid $border-color;
+  border-radius: 4px;
+  overflow: hidden;
+  background: mix(#fff, $border-color, 70%);
+}
+
+.cv-viewer iframe {
+  display: block;
+  width: 100%;
+  height: min(85vh, 1100px);
+  min-height: 640px;
+  border: 0;
+  background: #fff;
+}
+
+.cv-viewer__fallback {
+  margin: 0;
+  padding: 0.65em 1em;
+  font-size: $type-size-6;
+  color: mix(#000, $gray, 25%);
+  border-top: 1px solid $border-color;
+  background: #fff;
+}
+
+@media (max-width: 640px) {
+  .cv-viewer iframe {
+    min-height: 480px;
+    height: 70vh;
+  }
+}

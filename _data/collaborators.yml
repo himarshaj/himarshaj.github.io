@@ -1,0 +1,54 @@
+# Co-authors grouped by institution (dense layout on About + Publications)
+
+- institution: "Old Dominion University"
+  unit: "Department of Computer Science"
+  people:
+    - name: "Kritika Garg"
+      title: false
+    - name: "Michele C. Weigle"
+      title: true
+    - name: "Michael L. Nelson"
+      title: true
+    - name: "Muntabir Hasan Choudhury"
+      title: true
+    - name: "Lamia Salsabil"
+      title: false
+    - name: "Jian Wu"
+      title: true
+
+- institution: "Old Dominion University"
+  unit: "Virginia Modeling, Analysis & Simulation Center (VMASC)"
+  people:
+    - name: "Erika Frydenlund"
+      title: true
+
+- institution: "Internet Archive"
+  people:
+    - name: "Sawood Alam"
+      title: true
+
+- institution: "William & Mary"
+  people:
+    - name: "Alexander C. Nwala"
+      title: true
+
+- institution: "Los Alamos National Laboratory"
+  people:
+    - name: "Shawn M. Jones"
+      title: true
+    - name: "Martin Klein"
+      title: true
+
+- institution: "National Library of Australia"
+  people:
+    - name: "Alex Osborne"
+      title: false
+    - name: "Paul Koerbin"
+      title: false
+
+- institution: "Virginia Tech"
+  people:
+    - name: "William A. Ingram"
+      title: true
+    - name: "Edward A. Fox"
+      title: true

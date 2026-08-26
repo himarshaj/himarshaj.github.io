@@ -1,0 +1,79 @@
+/* Collaborators: dense institution | people layout */
+
+.collaborators {
+  margin: 2.5em 0 1em;
+  padding-top: 1.5em;
+  border-top: 1px solid $border-color;
+  scroll-margin-top: 1.5rem;
+}
+
+.collaborators__title {
+  margin: 0 0 0.35em;
+  font-size: $type-size-3;
+}
+
+.collaborators__intro {
+  margin: 0 0 1.25em;
+  color: mix(#000, $gray, 25%);
+  font-size: $type-size-6;
+}
+
+.collaborators__list {
+  border-top: 1px solid $border-color;
+}
+
+.collaborators__row {
+  display: grid;
+  grid-template-columns: minmax(11rem, 34%) 1fr;
+  gap: 0.5rem 1.25rem;
+  align-items: start;
+  padding: 0.85em 0;
+  border-bottom: 1px solid $border-color;
+}
+
+.collaborators__inst-name {
+  margin: 0;
+  font-weight: bold;
+  color: $dark-gray;
+  font-size: $type-size-5;
+  line-height: 1.35;
+}
+
+.collaborators__inst-unit {
+  margin: 0.15em 0 0;
+  font-size: $type-size-6;
+  color: mix(#000, $gray, 25%);
+  line-height: 1.35;
+}
+
+.collaborators__people {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25em 0.1em;
+  align-items: baseline;
+}
+
+.collaborators__people li {
+  margin: 0;
+  font-size: $type-size-5;
+}
+
+.collaborators__people li:not(:last-child)::after {
+  content: "·";
+  color: mix(#fff, $gray, 40%);
+  margin: 0 0.4em 0 0.2em;
+}
+
+.collaborators__people span {
+  color: $text-color;
+}
+
+@media (max-width: 640px) {
+  .collaborators__row {
+    grid-template-columns: 1fr;
+    gap: 0.35rem;
+  }
+}

@@ -27,6 +27,7 @@ In addition to research, I am committed to teaching, mentoring, and academic ser
 <a href="https://ws-dl.blogspot.com/" target="_blank" class="btn btn--mcw"><i class="fab fa-blogger" style="color: {{ page.blogger-color }}"></i><span> WS-DL Blog</span></a>
 <a href="https://github.com/oduwsdl" target="_blank" class="btn btn--mcw"><i class="fab fa-fw fa-github" style="color: {{ page.github-color }}"></i><span> WS-DL GitHub</span></a>
 
+{% include collaborators.html %}
 
 <!-- A data-driven personal website
 ======

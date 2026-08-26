@@ -1,0 +1,27 @@
+<section id="collaborators" class="collaborators" aria-labelledby="collaborators-heading">
+  <h2 id="collaborators-heading" class="collaborators__title">Collaborators</h2>
+  <p class="collaborators__intro">People I have co-authored with across publications and research projects.</p>
+
+  <div class="collaborators__list">
+    {% for group in site.data.collaborators %}
+      <div class="collaborators__row">
+        <div class="collaborators__inst">
+          <p class="collaborators__inst-name">{{ group.institution }}</p>
+          {% if group.unit %}
+            <p class="collaborators__inst-unit">{{ group.unit }}</p>
+          {% endif %}
+        </div>
+        <ul class="collaborators__people">
+          {% for person in group.people %}
+            {% if person.title %}
+              {% assign display_name = "Dr. " | append: person.name %}
+            {% else %}
+              {% assign display_name = person.name %}
+            {% endif %}
+            <li><span>{{ display_name }}</span></li>
+          {% endfor %}
+        </ul>
+      </div>
+    {% endfor %}
+  </div>
+</section>
