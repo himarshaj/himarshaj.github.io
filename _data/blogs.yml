@@ -220,7 +220,7 @@
 
 - title: "Twitter Rewrites Your URLs, but Assumes You'll Never Rewrite Theirs: More Problems Replaying Archived Twitter"
   date: 2021-01-22
-  url: "https://ws-dl.blogspot.com/2021/01/2021-01-22-twitter-rewrites-your-urls.html"
+  url: "https://ws-dl.blogspot.com/2021/01/2020-01-22-twitter-rewrites-your-urls.html"
   venue: "WS-DL Blog"
   category: technical
   excerpt: "An investigation into how Twitter rewrites outbound URLs and the additional replay challenges this creates when trying to faithfully reproduce archived Twitter pages."
@@ -242,7 +242,7 @@
 
 - title: "How Well Is Instagram Archived?"
   date: 2020-11-04
-  url: "https://ws-dl.blogspot.com/2020/11/2020-11-04-how-well-is-instagram-archived.html"
+  url: "https://ws-dl.blogspot.com/2020/11/2020-11-04-how-well-is-instagram.html"
   venue: "WS-DL Blog"
   category: technical
   excerpt: "Using Katy Perry's Instagram account as a case study, we found that only about one-third of her individual posts were archived in public web archives—far behind Twitter and Facebook—despite Instagram's massive user base."
