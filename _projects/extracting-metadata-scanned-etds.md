@@ -3,6 +3,7 @@ title: "Extracting Metadata from Scanned ETDs"
 collection: projects
 permalink: /projects/extracting-metadata-scanned-etds
 years: "2020"
+order: 9
 date: 2020-01-01
 ---
 

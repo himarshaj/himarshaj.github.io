@@ -3,6 +3,7 @@ title: "Data Science for Social Good Project"
 collection: projects
 permalink: /projects/data-science-for-social-good
 years: "2022 -- 2023"
+order: 3
 date: 2022-06-01
 ---
 

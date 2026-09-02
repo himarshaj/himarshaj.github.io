@@ -3,6 +3,7 @@ title: "ETD Data Enhancement"
 collection: projects
 permalink: /projects/etd-data-enhancement
 years: "2022"
+order: 6
 date: 2022-10-01
 ---
 

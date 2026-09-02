@@ -3,6 +3,7 @@ title: "Adverse Effects of Twitter's UI change on Web Archives"
 collection: projects
 permalink: /projects/twitter-ui-web-archives
 years: "2021"
+order: 7
 date: 2021-01-01
 ---
 

@@ -3,6 +3,7 @@ title: "DSA Project"
 collection: projects
 permalink: /projects/dsa-project
 years: "2021"
+order: 8
 date: 2021-06-01
 ---
 

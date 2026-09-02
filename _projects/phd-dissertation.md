@@ -3,6 +3,7 @@ title: "Ph.D. Dissertation"
 collection: projects
 permalink: /projects/phd-dissertation
 years: "2023 -- Present"
+order: 1
 date: 2023-01-01
 ---
 

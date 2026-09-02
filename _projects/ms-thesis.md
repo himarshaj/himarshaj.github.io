@@ -3,6 +3,7 @@ title: "M.S. Thesis"
 collection: projects
 permalink: /projects/ms-thesis
 years: "2019 -- 2023"
+order: 10
 date: 2019-01-01
 ---
 
